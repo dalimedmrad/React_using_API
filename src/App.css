@@ -1,0 +1,25 @@
+.Userlist{
+  display: flex;
+  justify-content: center;
+  width:100%;
+  flex-wrap: wrap;
+}
+span{
+  color: red;
+}
+b{
+  text-decoration: underline;
+}
+b:hover{
+  color: rgba(191, 33, 223, 0.6);
+  letter-spacing: 1.1px;
+  font-size: larger;
+}
+h1{
+  text-align: center;
+  padding: 1.5%;
+  color: royalblue;
+}
+.crd:hover{
+  box-shadow: -12px 13px 21px 1px rgba(0,0,0,0.6);
+}
